@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 178,
-    "timeWeek": 178,
-    "timeMonth": 178,
-    "timeYear": 178,
+    "time": 169,
+    "timeDay": 169,
+    "timeWeek": 169,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/www.ollieparsley.com",
     "slug": "www-ollie-parsley-com",
     "status": "down",
-    "uptime": "16.86%",
-    "uptimeDay": "16.86%",
-    "uptimeWeek": "16.86%",
-    "uptimeMonth": "16.86%",
-    "uptimeYear": "16.86%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-28": 0
+      "2020-12-28": 26
     }
   }
 ]
