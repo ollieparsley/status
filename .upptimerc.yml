@@ -6,7 +6,7 @@ repo: status # Your GitHub repository name
 sites:
   - name: OllieParsley.com
     url: https://ollieparsley.com
-  - name: www.OllieParsley.com
+  - name: OllieParsley.com (www)
     url: https://www.ollieparsley.com
     expectedStatusCodes:
       - 301
@@ -18,14 +18,14 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /
   logoUrl: https://avatars3.githubusercontent.com/u/185771?s=250&v=4
-  name: Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is the status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: OllieParsley Status
+  introTitle: ""
+  introMessage: This is the status page which uses **real-time** data using [Upptime](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+#    - title: Status
+#      href: /
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
