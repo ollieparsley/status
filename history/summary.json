@@ -4,19 +4,19 @@
     "url": "https://ollieparsley.com",
     "icon": "https://favicons.githubusercontent.com/ollieparsley.com",
     "slug": "ollie-parsley-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 200,
-    "timeWeek": 192,
-    "timeMonth": 191,
-    "timeYear": 191,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 189,
+    "timeDay": 171,
+    "timeWeek": 186,
+    "timeMonth": 189,
+    "timeYear": 189,
     "dailyMinutesDown": {
-      "2021-01-10": 0
+      "2021-01-10": 36
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-10": 1209,
+      "2021-01-10": 1244,
       "2021-01-09": 1440,
       "2021-01-08": 1440,
       "2021-01-07": 1440,
